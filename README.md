@@ -2,6 +2,11 @@
 
 A simple shopping list application built using JavaScript that allows users to perform CRUD operations on items and stores data locally using `localStorage`. This project serves as a revision of DOM manipulation, array methods, and working with localStorage.
 
+## Live Demo
+
+Check out the live demo of the application here:  
+**[Shopping List Project](https://shoping-list-project.netlify.app/)**
+
 ## Features
 
 - **Add Items**: Users can add new items to the shopping list.
@@ -30,9 +35,9 @@ This project was developed as a revision exercise to:
 
 ## How to Use
 
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Use the input field to add items to the shopping list.
-4. Use the edit (✎) and delete (✖) buttons to manage individual items.
-5. Use the filter input to search for specific items.
-6. Clear all items using the "Clear All" button.
+1. Visit the live demo: **[Shopping List Project](https://shoping-list-project.netlify.app/)**.
+2. Use the input field to add items to the shopping list.
+3. Use the edit (✎) and delete (✖) buttons to manage individual items.
+4. Use the filter input to search for specific items.
+5. Clear all items using the "Clear All" button.
+
